@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rodrigobrucher
+- 👀 I’m interested in robotics and computer science
+- 🌱 I’m currently learning C++, HTML, and CSS
